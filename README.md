@@ -23,7 +23,7 @@ O programa solicita ao usuário que insira um número inteiro para calcular o fa
 
 ## Como Contribuir
 
-Se desejar contribuir para o desenvolvimento deste jogo, siga estas etapas:
+Se desejar contribuir para o desenvolvimento deste programa, siga estas etapas:
 
 1. Fork o repositório.
 2. Faça suas modificações e melhorias no código.
